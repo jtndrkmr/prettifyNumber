@@ -1,0 +1,11 @@
+{
+  "name": "prettynumber",
+  "version": "1.0.0",
+  "description": "prettyfy number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jitendra'",
+  "license": "ISC"
+}
