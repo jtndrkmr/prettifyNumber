@@ -12,7 +12,7 @@ Then, require the package and use it like so:
 
     var isNullOrEmpty = require('prettifyNumber');
 
-    console.log(prettifyNumber(126798000)); // 1k
+    console.log(prettifyNumber(10000)); // 10k
 
 
 ## License
